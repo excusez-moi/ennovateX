@@ -8,7 +8,7 @@
 
 ### Project Artefacts
 
-- **Technical Documentation** - [**Docs**](docs/README.md) *(All technical details are in the docs folder)*
+- **Technical Documentation** - [**Docs**](docs/README.md) 
 - **Source Code** - The complete source code for the Android application is contained within this repository. The main application logic can be found in the [`app/`](./app) directory.
 - **Models Used** - Qwen 3 0.6b was used as the base model for this proof-of-concept. The framework is designed to be model-agnostic and can support other transformer-based architectures.
 - **Models Published** - N/A. This project focuses on the framework for fine-tuning, not on producing a specific fine-tuned model.
